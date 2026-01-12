@@ -3,15 +3,16 @@
 📂 Project Overview
 Goal: Exploratory Data Analysis on Airports Dataset to answer business questions.
 Data: Kaggle – Airline Dataset (98,619 rows, 15 features).
-Methods: Data Cleaning and Pre-processing, Exploratory Data Analysis, Data Visualization
+Methods: Data Cleaning and Pre-processing, Exploratory Data Analysis, Data Visualization, Interpretation and Presentation of results
 
 🗃️ Dataset
 Source: https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset/data
 
 🧭 Business Questions
-1. Passenger and Pilot Flight Frequency
-2. Age and Gender Distribution of Passengers
-3. Top 5 Countries and Nationalities with the Most Passenger
-4. Flight Status and Trends
-5. Airport Reliability
-6. Route Analysis (using OurAirport Dataset)
+1. Passenger and Pilots flight frequency
+2. Distribution of passengers by age and gender
+3. Countries and nationalities that have the most passengers
+4. Trends in flights and delays
+5. Airports reliability
+6. International Routes statistics
+7. Airport traffic and passenger demographics correlation to flight reliability
