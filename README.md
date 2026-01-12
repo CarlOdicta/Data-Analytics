@@ -1,4 +1,4 @@
-**Global Passenger Data Explorationl**
+**Global Passenger Data Exploration**
 
 📂 Project Overview
 
