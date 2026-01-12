@@ -1,8 +1,11 @@
 **Global Passenger Data Explorationl**
 
 📂 Project Overview
+
 Goal: Exploratory Data Analysis on Airports Dataset to answer business questions.
+
 Data: Kaggle – Airline Dataset (98,619 rows, 15 features).
+
 Methods: Data Cleaning and Pre-processing, Exploratory Data Analysis, Data Visualization, Interpretation and Presentation of results
 
 🗃️ Dataset
